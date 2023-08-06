@@ -5,15 +5,15 @@ Welcome to the Customer Churn Analysis project at Neo, a leading telecom company
 # Project Overview
 In this project, we will be conducting a comprehensive analysis of customer churn using historical data collected from our telecom services. The primary objectives are as follows:
 
-### Data Preprocessing: We will clean, preprocess, and prepare the data for analysis. This step includes handling missing values, data normalization, and feature engineering.
+Data Preprocessing: We will clean, preprocess, and prepare the data for analysis. This step includes handling missing values, data normalization, and feature engineering.
 
-### Exploratory Data Analysis (EDA): We will perform EDA to gain insights into customer behavior, identify patterns, and discover potential factors contributing to churn.
+Exploratory Data Analysis (EDA): We will perform EDA to gain insights into customer behavior, identify patterns, and discover potential factors contributing to churn.
 
-### Feature Importance: By applying various machine learning techniques, we will determine the most significant features that impact customer churn.
+Feature Importance: By applying various machine learning techniques, we will determine the most significant features that impact customer churn.
 
-### Model Development: We will build predictive models to forecast customer churn and identify high-risk customers who are more likely to churn.
+Model Development: We will build predictive models to forecast customer churn and identify high-risk customers who are more likely to churn.
 
-### Model Evaluation: The predictive models will be evaluated using appropriate metrics to assess their performance and effectiveness.
+Model Evaluation: The predictive models will be evaluated using appropriate metrics to assess their performance and effectiveness.
 
 # Data
 The dataset provided for this analysis contains information on customer demographics, usage patterns, services subscribed, contract details, and churn status. It is divided into two main subsets: historical customer data (including churn status) and customer usage data.
